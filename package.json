@@ -1,0 +1,13 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "A simple microservice",
+  "main": "index.js",
+  "repository": "https://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@github.com/55Nights/header-parser.git",
+  "author": "55Nights <1905587@students.kca.ac.ke>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
